@@ -1,0 +1,2 @@
+# Optimization-Unleashed-A-Profound-Analysis-of-CMA-ES-and-MPA-in-Neural-Network-Evolution
+encompasses the implementation of these algorithms in Python, their rigorous comparison across three diverse test functions (Rosenbrock, Himmelblau, and Rastrigin), and an extension into the realm of neuroevolution. Results from these experiments unveil nuanced insights into the performance, strengths, and potential synergies of CMA-ES and MPA. 
